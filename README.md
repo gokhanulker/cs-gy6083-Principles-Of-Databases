@@ -4,6 +4,7 @@ Web Site where the database and application are implemented: Please enter the us
 Complete Zip Files for the entire project including php and sql file are also in NYU Account’s Google Drive: 
 
 https://drive.google.com/file/d/1J-8UIqbnjTugThwKPyheycfdfMYANNDv/view?usp=drive_link
+
 Thank you for your time and input on my project. Good luck on yours as well. 
 
 Summary and explanation of this application and related database and PHP code implementation:
